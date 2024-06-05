@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OOP_4</string>
+    <string name="new_game">New game</string>
+    <string name="ccontinue">Continue</string>
+    <string name="options">Options</string>
+    <string name="about">About</string>
+</resources>
